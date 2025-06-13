@@ -92,12 +92,16 @@
 
 ## Github Stats
 
-<div style="display: flex; width: 100%; gap: 10px;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Satyasy&show_icons=true&count_private=true&hide_border=true" alt="Satyasy's GitHub Stats" style="width: 50%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasy&hide_border=true&layout=compact" alt="Satyasy's Top Languages" style="width: 50%;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Satyasy&show_icons=true&count_private=true&hide_border=true" alt="Satyasy's GitHub Stats" style="width: 100%;" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasy&hide_border=true&layout=compact" alt="Satyasy's Top Languages" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
 <br/>  
 
 
