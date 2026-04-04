@@ -1,4 +1,4 @@
-### <div align="center"><h1 align="center">Hi 👋, I'm Revano Satya</h1>
+### <div align="center"><h1 align="center">Hi 👋, I'm Revano</h1>
 <h3 align="center">A passionate DevOps & Backend Developer</h3></div>  
   
   
@@ -14,7 +14,7 @@
 <br/>  
 
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td width="33%" valign="top">
       
@@ -56,7 +56,7 @@
 
 </td>
   </tr>
-</table>
+</table> -->
 
 <br/>  
 
@@ -80,7 +80,7 @@
 
 ## Github Stats
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=Satyasy&show_icons=true&count_private=true&hide_border=true" alt="Satyasy's GitHub Stats" style="width: 100%;" />
@@ -89,7 +89,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasy&hide_border=true&layout=compact" alt="Satyasy's Top Languages" style="width: 100%;" />
     </td>
   </tr>
-</table>
+</table> -->
 <br/>  
 
 
