@@ -80,7 +80,7 @@
 
 ## Github Stats
 
-<!-- <table>
+<table>
   <tr>
     <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=Satyasy&show_icons=true&count_private=true&hide_border=true" alt="Satyasy's GitHub Stats" style="width: 100%;" />
@@ -89,7 +89,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasy&hide_border=true&layout=compact" alt="Satyasy's Top Languages" style="width: 100%;" />
     </td>
   </tr>
-</table> -->
+</table>
 <br/>  
 
 
